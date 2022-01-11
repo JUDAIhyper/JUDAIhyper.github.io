@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<img src="https://raw.githubusercontent.com/JUDAIhyper/judaihyper.github.io/master/assets/avatar/avatar.jpg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></img>
 
 就职于某安全公司，Go开发工程师。
 
