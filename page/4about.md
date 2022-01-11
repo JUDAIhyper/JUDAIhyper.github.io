@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<img src="https://github.com/JUDAIhyper/judaihyper.github.io/blob/master/assets/avatar/avatar.jpg?raw=true" style="border: 0;height: 142px;width: 200px"></img>
+<img src="https://github.com/JUDAIhyper/judaihyper.github.io/blob/master/assets/avatar/avatar.jpg?raw=true" style="border: 0;height: 200px;width: 200px">
 
 就职于某安全公司，Go开发工程师。
 
@@ -19,7 +19,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/JUDAIhyper)
+* GitHub：[JUDAIhyper](https://github.com/JUDAIhyper)
 * email：judai520@163.com
 
 ## 关于本站
