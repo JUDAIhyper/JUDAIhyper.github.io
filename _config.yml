@@ -55,3 +55,9 @@ excerpt_separator: "\n\n\n\n"
 plugins: [jekyll-paginate]
 paginate: 6
 port: 4001
+
+## Docs:
+deploy:
+  type: "git"
+  repo: git@github.com:JUDAIhyper/judaihyper.github.io.git
+  branch: master
